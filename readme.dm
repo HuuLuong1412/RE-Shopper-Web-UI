@@ -1,2 +1,1 @@
-###Project name:
-##Tran Van Huu Luong
+##Project name: Tran Van Huu Luong SHopper
